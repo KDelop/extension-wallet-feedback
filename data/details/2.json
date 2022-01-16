@@ -1,0 +1,25 @@
+{
+    "id": 2,
+    "title": "Docu sign",
+    "description": "sign smart contracts seamlessly",
+    "user_amount": 22000,
+    "image": "/icons/app-icon-2.png",
+    "details": {
+        "overview": "it is easy to electronically sign, manage and distribute all your contracts and documents safely, securely, anywhere, anytime- paperlessly. ",
+        "company_link": "https://docusignn.io"
+    },
+    "type": "utilities",
+    "link": "https://google.com",
+    "activities": [
+        {
+            "user_id": "Johndoe.near",
+            "description": "johndoe.near signed the contract successfully",
+            "timestamp": "2022:01:15T12:12:12"
+        },
+        {
+            "user_id": "CryptoKing.near",
+            "description": "CryptoKing.near requested to sign the contract ",
+            "timestamp": "2022:01:15T12:12:12"
+        }
+    ]
+}
